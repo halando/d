@@ -1,0 +1,7 @@
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\bin\Debug\AdatokKezelese.exe.config
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\bin\Debug\AdatokKezelese.exe
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\bin\Debug\AdatokKezelese.pdb
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.csproj.AssemblyReference.cache
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.exe
+C:\Users\Tanar\source\repos\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.pdb
